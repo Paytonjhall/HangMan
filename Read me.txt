@@ -1,3 +1,6 @@
 Payton Hall:
-It took me about 90 minutes to finish this project. I finished pretty quickly without any real bugs. It took me a little time to figure out how to make my project and exe file. I was able to run the jar file from my terminal, I don't have a GUI to run it so that was what caused some issues. Overall, I had fun writing this program. I did some documentation but its pretty easy to understand what is going on. Thank you. 
+It took me about 90 minutes to finish this project. I finished pretty quickly without any real bugs. 
+It took me a little time to figure out how to make my project and exe file. I was able to run the jar file from my terminal, 
+I don't have a GUI to run it so that was what caused some issues. Overall, I had fun writing this program. 
+I did some documentation but its pretty easy to understand what is going on. Thank you. 
 Payton Hall. 
